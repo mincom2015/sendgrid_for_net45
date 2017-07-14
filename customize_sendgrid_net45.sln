@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sendgrid_net45", "customize_sendgrid_net45\sendgrid_net45.csproj", "{E1218886-AE79-43A7-A0D6-3BAD991FE17D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleNet45", "..\sendgrid-csharp\ExampleNet45Project\ExampleNet45.csproj", "{3B3F2699-F720-4498-8044-262EFE110A22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1218886-AE79-43A7-A0D6-3BAD991FE17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1218886-AE79-43A7-A0D6-3BAD991FE17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1218886-AE79-43A7-A0D6-3BAD991FE17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1218886-AE79-43A7-A0D6-3BAD991FE17D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3F2699-F720-4498-8044-262EFE110A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3F2699-F720-4498-8044-262EFE110A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3F2699-F720-4498-8044-262EFE110A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3F2699-F720-4498-8044-262EFE110A22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
